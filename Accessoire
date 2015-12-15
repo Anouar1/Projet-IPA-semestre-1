@@ -3,6 +3,7 @@ package pokemon;
 public interface Accessoire {
 
 	public void effect();
+	cqc
 	
 	
 }
